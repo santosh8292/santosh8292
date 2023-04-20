@@ -1,8 +1,13 @@
 [![MasterHead](nft.gif)
 
 
-
 <h1 align="center">Hi 👋, I'm santosh</h1>
+
+SCRATCH HERE
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Try+Your+luck;Best+Of+Luck)](https://git.io/typing-svg)
+
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 <HTML>
