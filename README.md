@@ -1,8 +1,8 @@
+[![MasterHead](https://www.google.com/search?q=best+3d+image+with+less+1+mb&tbm=isch&ved=2ahUKEwiN6fq67bf-AhVVG7cAHc1jB0EQ2-cCegQIABAA&oq=best+3d+image+with+less+1+mb&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAUQHjoECAAQHjoGCAAQCBAeOgcIABAYEIAEUP0DWMJAYKRFaABwAHgBgAHZBogB9iuSAQ0wLjEuOC40LjAuMi4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=x95AZM3pOtW23LUPzcediAQ#imgrc=Bka8DZG9jYCndM)
 <h1 align="center">Hi 👋, I'm santosh</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<img align="right"> alt="coding" width="500" src="https://studiobycj.com/wp-content/uploads/2022/03/NFT-Drops-Cover-Animated-3.jpg">
-
+<img align="right"> alt="coding" width="500" src="
 
 
 - 🔭 I’m currently working on [wesent it](https://www.wesendit.com/)
