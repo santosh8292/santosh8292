@@ -1,4 +1,7 @@
 [![MasterHead](nft.gif)
+
+
+
 <h1 align="center">Hi 👋, I'm santosh</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
@@ -6,9 +9,12 @@
 
 <HEAD> Are you there :heart_eyes::heart_eyes::heart_eyes: ?? </HEAD> 
   
-<BODY BGCOLOR="#0000FF" text="FFFFFF">
+<BODY>  
+  
+  <img align="right" alt="coding" width="200" src="![image](https://user-images.githubusercontent.com/117640694/233314632-aca3d4b4-1e3d-4ae9-a1e8-d8a7109f47e7.png)
 
 <H1> Hello world </H1>
+ 
 
 
 <H3 align="center"> people say:smile: </H3>
@@ -19,6 +25,8 @@
 <H5 align="center"> impossible :star: </H5>
 
 <H6 align="right"> stay happy :wink:. <\H6>
+  </body>
+  </html>
 
 
 
